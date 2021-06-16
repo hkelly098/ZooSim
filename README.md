@@ -1,2 +1,1 @@
-# PomoTime
 # LifeSim
